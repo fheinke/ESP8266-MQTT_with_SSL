@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 // 2019-12-04 Felix Heinke v0.1.0
 //
-// This Sketch is just for example, to show you how to set up a secure MQTT Connection
+// This Sketch is just an example, to show you how to set up a secure MQTT Connection
 // to your own MQTT Broker. This Broker is secured with an User and Password plus SSL Certificate.
 //
 // You need to change the Variables with your values.
