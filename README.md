@@ -1,5 +1,4 @@
 # ESP8266-MQTT_with_SSL
-Example Sketch how to connect your ESP8266 with an SSL Secured MQTT Broker.
 
 ### Description
 This Sketch is just an example, to show you how to set up a secure MQTT Connection to your own MQTT Broker. My Test Broker is secured with an User and Password plus SSL Certificate.
