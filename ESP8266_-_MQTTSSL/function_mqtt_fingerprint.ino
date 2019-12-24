@@ -9,7 +9,7 @@ void verifyFingerprint()
   Serial.println("");
 
   // Client has to be connected to the Broker
-  if (!espClient.connect(mqtt_server, 8883)) {
+  if (!espClient.connect(mqtt_server, mqtt_port)) {
     Serial.println("Connection failed. Rebooting.");
     Serial.flush();
     ESP.restart();
